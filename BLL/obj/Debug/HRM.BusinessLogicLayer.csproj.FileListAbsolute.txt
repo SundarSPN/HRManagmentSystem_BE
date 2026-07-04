@@ -1,0 +1,11 @@
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\BLL.dll
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\BLL.pdb
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\DataAccessLayer.dll
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\Model.dll
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\DataAccessLayer.pdb
+D:\Apps\HRManagement-Geodis\BLL\bin\Debug\Model.pdb
+D:\Apps\HRManagement-Geodis\BLL\obj\Debug\HRM.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Apps\HRManagement-Geodis\BLL\obj\Debug\HRM.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Apps\HRManagement-Geodis\BLL\obj\Debug\HRM.BusinessLogicLayer.csproj.CopyComplete
+D:\Apps\HRManagement-Geodis\BLL\obj\Debug\BLL.dll
+D:\Apps\HRManagement-Geodis\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,12 @@
+D:\Apps\HRManagement-Geodis\Model\bin\Debug\Model.dll
+D:\Apps\HRManagement-Geodis\Model\bin\Debug\Model.pdb
+D:\Apps\HRManagement-Geodis\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\Apps\HRManagement-Geodis\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Apps\HRManagement-Geodis\Model\obj\Debug\Model.dll
+D:\Apps\HRManagement-Geodis\Model\obj\Debug\Model.pdb
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\bin\Debug\Model.dll
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\bin\Debug\Model.pdb
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\obj\Debug\Model.dll
+D:\Apps\.Net\Geodis\HRManagement-Geodis\Model\obj\Debug\Model.pdb
